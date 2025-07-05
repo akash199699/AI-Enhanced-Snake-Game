@@ -69,11 +69,12 @@ This project was developed as part of an academic mini-project to demonstrate th
 
 ```
 AI-Enhanced-Snake-Game/
-├── ai_snake.py         # Main game logic with AI integration
-├── ai_game.py          # AI algorithms
-├── ai_game.py          # Classic game
 ├── audio/              # Audio Files
-└── img/                # Images
+├── img/                # Images
+├── stats/              # Statistics
+├── ai_game.py          # AI algorithms
+├── ai_snake.py         # Main game logic with AI integration
+└── game.py             # Classic game
 ```
 
 ---
