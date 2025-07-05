@@ -2,7 +2,7 @@
 
 An advanced version of the classic Snake game, enhanced with AI techniques like **A\* Search Algorithm** and **Constraint Satisfaction Problem (CSP)** logic for intelligent movement and obstacle avoidance.
 
-This project was developed as part of an academic mini-project to demonstrate the application of AI concepts to classic games.
+This project was developed as part of an academic micro-project to demonstrate the application of AI concepts to classic games.
 
 ---
 
