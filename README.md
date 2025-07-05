@@ -1,4 +1,3 @@
-````markdown
 # 🐍 AI Enhanced Snake Game
 
 An advanced version of the classic Snake game, enhanced with AI techniques like **A* Search Algorithm** and **Constraint Satisfaction Problem (CSP)** logic for intelligent movement and obstacle avoidance.
