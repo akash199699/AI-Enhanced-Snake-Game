@@ -48,7 +48,7 @@ This project was developed as part of an academic mini-project to demonstrate th
 ## 🕹️ Controls
 
 * **Arrow Keys** — Manual control of the snake
-* **AI Mode Toggle** — (If implemented) Activate AI control for the snake
+* **AI Mode** — Activate AI control for the snake
 * The snake intelligently finds food using A\* or CSP algorithms when AI mode is active
 
 ---
@@ -78,7 +78,7 @@ AI-Enhanced-Snake-Game/
 
 ## 👨‍💻 Author
 
-Developed by **Akash Krishna**
+Developed by **B Akash Krishna**
 As part of an academic AI Mini Project
 
 ---
