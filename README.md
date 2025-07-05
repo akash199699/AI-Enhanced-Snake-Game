@@ -29,7 +29,7 @@ This project was developed as part of an academic mini-project to demonstrate th
    ```bash
    git clone https://github.com/yourusername/AI-Enhanced-Snake-Game.git
    cd AI-Enhanced-Snake-Game
-````
+   ````
 
 2. **Install Requirements**
 
